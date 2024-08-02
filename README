@@ -1,5 +1,12 @@
-DL - Deep Learning
-NLA - Numerical Linear Algebra
-OptMethods - Optimization Methods
-SC - Scientific Computing
-HPC - High Performance Python Lab
+# Skoltech Courses (2018-2020)
+
+## About
+
+This repository contains homework assignments that were completed at Skoltech during the master's program from 2018 to 2020.
+
+- **Deep Learning**: [Link](https://github.com/annshorn/Skoltech/tree/master/DL)
+- **NLA - Numerical Linear Algebra**: [Link](https://github.com/annshorn/Skoltech/tree/master/NLA)
+- **OptMethods - Optimization Methods**: [Link](https://github.com/annshorn/Skoltech/tree/master/OptMethods)
+- **SC - Scientific Computing**: [Link](https://github.com/annshorn/Skoltech/tree/master/SC)
+- **HPC - High Performance Python Lab**: [Link](https://github.com/annshorn/Skoltech/tree/master/HPC)
+
